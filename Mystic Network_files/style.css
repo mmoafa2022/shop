@@ -76,7 +76,7 @@ header {
 
 /* 🎨 مودال */
 .modal-content {
-    background: #2a2a3d;
+    background: #412222;
     color: #fff;
     border-radius: 12px;
     border: 1px solid rgba(255,255,255,0.1);
@@ -106,5 +106,6 @@ header {
 .icon:hover {
     color: #5b6eae !important;
 }
+
 
 
