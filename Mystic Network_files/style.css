@@ -7,7 +7,7 @@
 
 /* 🌌 الخلفية */
 body {
-    background: linear-gradient(135deg, #412222 0%, #2b1818 100%)
+    background: linear-gradient(135deg, #412222 0%, #2b1818 100%);
     direction: rtl;
     text-align: right;
     color: #fff;
@@ -106,4 +106,5 @@ header {
 .icon:hover {
     color: #5b6eae !important;
 }
+
 
